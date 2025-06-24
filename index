@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Cards</title>
+    <style>
+        body { font-family: system-ui, sans-serif; padding: 2rem; line-height: 1.6; }
+        .card { margin-bottom: 2.5rem; }
+        .card img { max-width: 300px; height: auto; display: block; margin-top: 0.5rem; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h2>apple <small>(蘋果)</small></h2>
+        <p>An <strong>apple</strong> a day keeps the doctor away.</p>
+        <img src="images/apple.jpg" alt="a red apple">
+    </div>
+
+    <div class="card">
+        <h2>bicycle <small>(腳踏車)</small></h2>
+        <p>I ride my <strong>bicycle</strong> to work every morning.</p>
+        <img src="images/bicycle.jpg" alt="a blue bicycle">
+    </div>
+</body>
+</html>
